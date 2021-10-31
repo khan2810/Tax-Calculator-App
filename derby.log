@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 25 15:17:49 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0178-68c8-6b56-000002cc7110 
+on database directory C:\Users\amaan\Music\java codes\TAX_CALCULATOR\user_details with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Derby/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\amaan\Music\java codes\TAX_CALCULATOR
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
